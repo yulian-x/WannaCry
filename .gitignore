@@ -1,0 +1,11 @@
+﻿.vs/
+**/.vs/
+*.ipch
+*.pdb
+*.obj
+*.ilk
+Menu/
+build/
+x64/
+Debug/
+Release/
